@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayesh Malviya</h1>
 <h3 align="center">Hi there! I'm a passionate full-stack developer with a focus on React and MERN stack applications. I love building creative and efficient web applications while continuously learning and improving my skills.</h3>
-img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?t=st=1742023396~exp=1742026996~hmac=1b1f8e63c67ec4772b73c8490b22cec4e066d3017e62d233c58320d92969e377&w=740"
+img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshmalviya1&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshmalviya1" /> </p>
 
