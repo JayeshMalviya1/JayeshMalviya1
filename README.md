@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayesh Malviya</h1>
 <h3 align="center">Hi there! I'm a passionate full-stack developer with a focus on React and MERN stack applications. I love building creative and efficient web applications while continuously learning and improving my skills.</h3>
-<img src="3d-rendering-kid-playing-digital-game.jpg" alt="Kid Playing Game" width="400"/>
+<img align="right" alt="Coding" width="400" src="3d-rendering-kid-playing-digital-game.jpg" alt="Kid Playing Game" width="400"/>
 
 
 
