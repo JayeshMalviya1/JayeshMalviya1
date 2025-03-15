@@ -2,6 +2,7 @@
 <h3 align="center">Hi there! I'm a passionate full-stack developer with a focus on React and MERN stack applications. I love building creative and efficient web applications while continuously learning and improving my skills.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshmalviya1&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshmalviya1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayeshmalviya1" alt="jayeshmalviya1" /></a> </p>
